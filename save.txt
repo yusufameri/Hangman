@@ -1,0 +1,23 @@
+--- !ruby/object:Hangman
+word: crosswind
+word_split:
+- c
+- r
+- o
+- s
+- s
+- w
+- i
+- n
+- d
+dashes:
+- _
+- _
+- _
+- s
+- s
+- w
+- _
+- _
+- d
+guesses_remaining: 4
